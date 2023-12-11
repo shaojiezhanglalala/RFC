@@ -2,9 +2,6 @@
 This repo is the official implementation of ["Reviewing the Forgotten Classes for Domain Adaptation of Black-box Predictors"].
 Our method is termed as **RFC**.
 
-## Acknowledge
-Part of the codes are adapted from [BETA](https://github.com/xyupeng/BETA). We thank them for their excellent project.
-
 ## Environment
 
 1. Install `pytorch` and `torchvision` (we use `pytorch==1.9.1` and `torchvision==0.10.1`).
@@ -62,3 +59,6 @@ python train_src_v2.py configs/visda17/train_src.py
 # adapt with RFC
 python train_visda.py configs/visda17/RFC.py
 ```
+
+## Acknowledge
+Part of the codes are adapted from [BETA](https://github.com/xyupeng/BETA). We thank them for their excellent project.
