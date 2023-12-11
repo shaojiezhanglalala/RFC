@@ -1,6 +1,10 @@
 # Reviewing the Forgotten Classes for Domain Adaptation of Black-box Predictors
 This repo is the official implementation of ["Reviewing the Forgotten Classes for Domain Adaptation of Black-box Predictors"].
 Our method is termed as **RFC**.
+
+## Acknowledge
+Part of the codes are adapted from [BETA](https://github.com/xyupeng/BETA). We thank them for their excellent project.
+
 ## Environment
 
 1. Install `pytorch` and `torchvision` (we use `pytorch==1.9.1` and `torchvision==0.10.1`).
