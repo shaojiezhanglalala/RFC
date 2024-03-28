@@ -2,11 +2,6 @@
 This repo is the official implementation of ["Reviewing the Forgotten Classes for Domain Adaptation of Black-Box Predictors"].
 Our method is termed as **RFC**.
 
-## Environment
-
-1. Install `pytorch` and `torchvision` (we use `pytorch==1.9.1` and `torchvision==0.10.1`).
-2. `pip install -r requirements.txt`
-
 ## Datasets
 Please download and organize the [datasets](https://github.com/jindongwang/transferlearning/blob/master/data/dataset.md) in this structure:
 ```
