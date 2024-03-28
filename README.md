@@ -1,5 +1,5 @@
-# Reviewing the Forgotten Classes for Domain Adaptation of Black-box Predictors
-This repo is the official implementation of ["Reviewing the Forgotten Classes for Domain Adaptation of Black-box Predictors"].
+# Reviewing the Forgotten Classes for Domain Adaptation of Black-Box Predictors
+This repo is the official implementation of ["Reviewing the Forgotten Classes for Domain Adaptation of Black-Box Predictors"].
 Our method is termed as **RFC**.
 
 ## Environment
